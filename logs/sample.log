@@ -1,0 +1,6 @@
+2026-11-19 09:00:01 INFO Connection established from 192.0.2.10
+2026-11-19 09:02:17 WARNING Failed login attempt from 198.51.100.42
+2026-11-19 09:05:43 WARNING Failed login attempt from 198.51.100.42
+2026-11-19 09:08:10 INFO File received sha256=bf1430bf9ace498e56f859db93e36004fdd0dc9ea38f285aaa06cbf4c68c70f8
+2026-11-19 09:10:02 ERROR Unexpected request from 203.0.113.7
+2026-11-19 09:13:55 INFO File checked sha256=161b4a92aef7dc6aeb64a0d816d0f2e1b1eea38f918140b2669bcfdb5787749a
